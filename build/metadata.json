@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of House AI - Maison de Lumière",
+  "description": "Assistant intelligent pour l'église Maison de Lumière à Goma, conçu pour répondre aux questions des fidèles sur les cultes, l'organisation et la vie spirituelle.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
